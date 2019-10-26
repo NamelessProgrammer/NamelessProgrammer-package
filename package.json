@@ -1,0 +1,19 @@
+{
+  "name": "NamelessProgrammer-package",
+  "version": "1.0.0",
+  "description": "WAWJS DU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./test/test.js"
+  },
+  "keywords": [],
+  "author": "NamelessProgrammer",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}

@@ -1,0 +1,1 @@
+console.log('Mazanie disku prebehlo úspšene')
